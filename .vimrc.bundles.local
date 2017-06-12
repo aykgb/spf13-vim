@@ -1,0 +1,6 @@
+"""""""""""""""""""""""""""""""
+" Customization
+"""""""""""""""""""""""""""""""
+Bundle 'nvie/vim-flake8'
+Bundle 'octol/vim-cpp-enhanced-highlight' 
+Bundle 'https://github.com/juneedahamed/svnj.vim.git'
